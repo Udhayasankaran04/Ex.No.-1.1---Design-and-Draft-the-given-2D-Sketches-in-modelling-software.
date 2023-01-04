@@ -42,6 +42,9 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![EDM EX-1 1 v1](https://user-images.githubusercontent.com/119393933/210482784-a7968c25-991e-46e4-82bb-63799c4582a2.jpg)
+
+
 
 
 ## RESULT
